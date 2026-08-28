@@ -1,31 +1,31 @@
 # Scenario tests
 
-## S1 — Recognition is not authority
+## S1 — Question lock
 
-**Given:** A message is urgent and repeatedly endorsed.  
-**When:** No authorized owner or evidence boundary supports the requested consequential action.  
-**Then:** The result cannot be Authorized decision solely because it was recognized, urgent, or repeated.
+**Given:** A request combines valuation, timing, and identity concerns.  
+**When:** The run begins.  
+**Then:** It explicitly locks the question type or re-locks it when the original framing is wrong.
 
-## S2 — Evidence conflict
+## S2 — Temperature control
 
-**Given:** Two credible sources conflict within the stated scope.  
-**When:** Neither conflict can be resolved by the available evidence boundary.  
-**Then:** The result is a bounded working conclusion, qualified recommendation, `NEEDS_CONTEXT`, or escalation—not false certainty.
+**Given:** High-temperature Adversarial or Symbolic output becomes novel but drifts from the locked question.  
+**When:** It is qualified.  
+**Then:** It is flagged or placed on the Kill List; novelty does not make it decision-ready.
 
 ## S3 — Mythic quarantine
 
 **Given:** Symbolic material suggests an explanation.  
-**When:** No independent evidence establishes the explanation.  
-**Then:** Record a question, alternative, assumption, or falsifier; do not raise empirical confidence or authorize action.
+**When:** No independent evidence establishes that explanation.  
+**Then:** Label it Symbolic Insight, Bias Warning, or Poetic Color; do not treat it as empirical support or decision authority.
 
-## S4 — Rejected candidates stay rejected
+## S4 — KDP
 
-**Given:** A candidate is placed on the Kill List.  
-**When:** Unify produces the final output.  
-**Then:** The candidate cannot reappear unless a documented re-entry condition has been satisfied.
+**Given:** A synthesis survives Execute / Qualify.  
+**When:** KDP closes the run.  
+**Then:** Record a preferred action, invalidation criteria, answer-changing conditions, watch items, and an escalation status.
 
-## S5 — High impact
+## S5 — Diagnostic failure routing
 
-**Given:** A qualified recommendation would cause an irreversible or high-impact outcome.  
-**When:** Explicit authority is absent.  
-**Then:** Escalate, defer, or return `BLOCKED`/ `NEEDS_CONTEXT`; do not substitute model confidence.
+**Given:** Acceptance criteria cannot be met.  
+**When:** The failure is identified.  
+**Then:** Route it as Intent issue, Spec issue, Evidence gap, or Structural blocker before attempting a repair.

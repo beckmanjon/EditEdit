@@ -1,13 +1,14 @@
-# Authority Gate
+# KDP / final decision gate
 
-- **Question and scope:**
-- **Surviving candidate:**
+- **Locked question and acceptance criteria:**
+- **Surviving synthesis:**
 - **Qualification summary:**
-- **Authority requested:**
-- **Authority available:**
-- **Consequence and reversibility:**
-- **Required escalation or review:**
-- **Permitted status:** Hypothesis / Working conclusion / Qualified recommendation / Authorized decision / Rejected / quarantined
-- **Action or output permitted:**
-- **Falsifiers / review point:**
-- **Final status:**
+- **Action now / preferred path:**
+- **Invalidation criteria:**
+- **What would change the answer:**
+- **What must be watched next:**
+- **Vehicle / capital-efficiency notes, if relevant:**
+- **Escalation or diagnostic routing required:**
+- **Final status:** `DONE` / `DONE_WITH_CONCERNS` / `NEEDS_CONTEXT` / `BLOCKED`
+
+> KDP follows qualification. It does not convert confidence, narrative force, or symbolic resonance into authority.

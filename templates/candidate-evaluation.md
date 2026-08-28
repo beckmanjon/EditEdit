@@ -1,12 +1,14 @@
 # Candidate evaluation
 
-- **Question and scope:**
+- **Locked question and scope:**
+- **Mode, strands, and temperatures used:**
 - **Candidate:**
-- **Why it is relevant:**
 - **Evidence and provenance:**
-- **Assumptions:**
-- **Conflicts or limitations:**
+- **Assumptions and coherence constraints:**
+- **Mythic/Symbolic label, if applicable:** Symbolic Insight / Bias Warning / Poetic Color
+- **Conflicts, limitations, and narrative-capture risks:**
 - **Falsifiers / what would change the answer:**
-- **Qualification result:**
-- **Authority status:** Hypothesis / Working conclusion / Qualified recommendation / Authorized decision / Rejected / quarantined
-- **Notes for Unify:**
+- **Execute / Qualify result:**
+- **Kill List disposition or surviving role:**
+- **KDP implications:** action, invalidation, and watch items
+- **Final-status impact:**
