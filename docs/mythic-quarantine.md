@@ -1,29 +1,19 @@
-# Mythic quarantine
+# Mythic / Symbolic quarantine
 
-Mythic material is symbolic, associative, narrative, or imaginal material. It may illuminate; it does not govern.
+Symbolic material may illuminate hidden structure, generate questions, suggest alternatives, expose narrative capture, reveal assumptions, or suggest falsifiers. It must not govern decisions.
 
-## Permitted uses
+## Required labels
 
-Mythic material may:
+Label Mythic/Symbolic output as one of:
 
-- generate questions;
-- suggest alternatives;
-- expose narrative capture;
-- reveal assumptions;
-- suggest falsifiers.
+- **Symbolic Insight**
+- **Bias Warning**
+- **Poetic Color**
 
-## Prohibited authority
+## Authority boundary
 
-Mythic material may not independently:
+Mythic/Symbolic material never independently establishes external facts, raises empirical confidence, determines responsibility, resolves factual disagreement, or authorizes consequential action.
 
-- establish external facts;
-- raise empirical confidence;
-- determine responsibility;
-- resolve factual disagreement;
-- authorize consequential action.
+Symbolic Insight and Bias Warning may prompt additional qualification or a narrative-capture check. Poetic Color is excluded from decision logic and should be killed or footnoted.
 
-## Handling rule
-
-Record the material as Mythic or quarantined. Translate any useful output into a testable question, candidate, assumption, or falsifier. Then subject that translated item to normal evidence and authority requirements.
-
-Example: “This story suggests we are treating delay as failure” may be a useful prompt to inspect assumptions. It is not evidence that delay occurred, that someone is responsible, or that a consequential action is authorized.
+High-temperature Symbolic work can reveal self-deception or hidden structure, but remains quarantined and subject to the Kill List.

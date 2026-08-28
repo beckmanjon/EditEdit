@@ -1,27 +1,31 @@
 # Decision record
 
-A decision record is a receipt for bounded reasoning and permitted action. It exposes rationale and provenance, not hidden chain-of-thought.
+A decision record is a receipt for bounded reasoning and permitted action. It exposes rationale, provenance, process choices, and closure—not hidden chain-of-thought.
 
 ## Required structure
 
 ```text
-Question:
-Scope and base context:
-Evidence boundary:
-Acceptance criteria:
-Sources and provenance:
-Assumptions:
+Question Lock & Sovereign Decision Sentence:
+Mode Declaration and modifiers:
+Base context, scope, and boundaries:
+Acceptance criteria (Given/When/Then):
+Evidence boundary and provenance:
+Strands and temperatures used:
+Key strand insights:
+Mythic / Symbolic contributions and labels:
 Candidates considered:
-Rejected or quarantined candidates:
-Surviving candidate and status:
-Confidence and limitations:
-Falsifiers / what would change the answer:
-Authority gate:
-Decision rationale:
-Action or output permitted:
-Consequence-review point:
-Open issues / next step:
+Kill List with justifications:
+Execute / Qualify result:
+KDP / final decision gate:
+- Action now / preferred path:
+- Invalidation criteria:
+- What would change the answer:
+- What must be watched next:
+Fractal process evaluation:
+Base-context fidelity check:
+Planned vs actual:
+Deferred issues / next step:
 Final status:
 ```
 
-The record must identify what is known, what is assumed, what was rejected or quarantined, and what authority permits the final output. It should be proportionate to the complexity budget.
+The record should be proportionate to the complexity budget. It must make source boundaries and decision-relevant rationale auditable without exposing private reasoning traces.

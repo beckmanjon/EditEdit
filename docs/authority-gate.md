@@ -1,45 +1,28 @@
-# Authority Gate
+# KDP / final decision gate
 
-The Authority Gate is the explicit boundary between qualified material and what may be concluded or authorized.
+KDP is the final decision gate in PAUL and Hybrid mode. It follows independent qualification against the locked question and acceptance criteria.
 
-```text
-relevance → candidate → qualification → authority
-```
+## Required output
 
-These are distinct transitions. A relevant signal deserves evaluation; it does not become a candidate by force. A candidate must be qualified. A qualified recommendation does not become an authorized decision without the appropriate authority for its scope and consequence.
+KDP records:
 
-## What cannot substitute for authority
+- action now / preferred path;
+- invalidation criteria;
+- what would change the answer;
+- what must be watched next;
+- vehicle or capital-efficiency notes when relevant.
 
-None of the following independently creates authority:
+## Guardrails
 
-- confidence or fluency;
-- emotional force;
-- symbolic resonance;
-- attention;
-- repeated agreement;
-- model certainty;
-- procedural completion.
+Confidence, fluency, emotional force, attention, symbolic resonance, repeated agreement, and high-temperature novelty cannot substitute for qualified decision authority.
 
-Recognition creates an obligation to evaluate; it does not create an obligation to obey.
+A candidate remains provisional until it survives qualification. When the evidence boundary, authorization, or structure is insufficient, the correct output is `NEEDS_CONTEXT`, `BLOCKED`, a bounded recommendation, or escalation—not false completion.
 
-## Gate statuses
+## Statuses
 
-| Status | Meaning |
-| --- | --- |
-| Hypothesis | A proposition worth examining; not a conclusion. |
-| Working conclusion | A provisional interpretation useful for continued work. |
-| Qualified recommendation | A candidate that has passed stated checks but still requires authorization for action. |
-| Authorized decision | A conclusion or action explicitly permitted within stated scope. |
-| Rejected / quarantined | A candidate excluded from Unify, or held outside evidentiary authority. |
+- `DONE`: completed cleanly against acceptance criteria.
+- `DONE_WITH_CONCERNS`: completed with material doubts, risks, or edge cases recorded.
+- `NEEDS_CONTEXT`: information, evidence, or question clarity is missing.
+- `BLOCKED`: a structural or external condition prevents completion.
 
-## Correct stops
-
-The correct result may be:
-
-- **Stop** when the task is outside scope or no decision is needed.
-- **Defer** when a later evidence point or authorized owner is required.
-- **Escalate** when consequence, responsibility, or irreversibility exceeds available authority.
-- **Quarantine** when material is symbolic, unverified, contaminated, or otherwise unable to support the proposed authority.
-- **Return `NEEDS_CONTEXT`** when missing context prevents a bounded, qualified answer.
-
-A coherent candidate may remain only a qualified recommendation. Procedural closure is not epistemic closure.
+Quarantine is a disposition for material; it is not a substitute for reporting the run’s final escalation status.

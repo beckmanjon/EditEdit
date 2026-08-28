@@ -1,36 +1,27 @@
 # Architecture
 
-PAUL vs LSD is a governed reasoning and execution framework with distinct layers.
+PAULvsLSD integrates three systems while preserving their distinct roles.
 
-## PAUL control loop
+## Real PAUL framework loop discipline
 
-PAUL is the control loop:
-
-```text
-Plan → Apply → Qualify → Authority Gate → Unify
-```
-
-It turns a question into a bounded output while retaining visible scope, evidence, limitations, authority, and open issues.
-
-## LSD controlled divergence
-
-LSD supplies controlled divergence. It helps generate alternatives, edge cases, reframings, and falsifiers during Apply. LSD output remains candidate material until it is qualified and passes the Authority Gate.
-
-## Beckman application layer
-
-The Beckman v3.1 application layer routes practical work through:
+The mandatory control loop is:
 
 ```text
-Listen → Search → Decide → Dream
+Plan → Apply → Unify
 ```
 
-This is not a replacement name for the PAUL control loop. It is an application-facing route that can be used within it:
+- **Plan** locks the real question, sovereign decision sentence when needed, acceptance criteria, boundaries, and required protocol density.
+- **Apply** performs the work. It includes Listen → Search → Decide → Dream, Low/Medium/High passes, selective fractal expansion, and independent Execute/Qualify checks.
+- **Unify** is mandatory closure: compare planned versus actual, preserve the Kill List, reconcile against base context and acceptance criteria, log decisions and deferred issues, and deliver a final integrated output.
 
-- Listen informs planning and base context.
-- Search supplies bounded evidence and candidate inputs.
-- Decide is subject to qualification and authority.
-- Dream may generate controlled divergence and Mythic material; it does not govern factual or consequential authority.
+## Beckman v3.1 PAUL Application Layer
 
-## Governing separation
+Listen → Search → Decide → Dream is the operational route within Apply. It uses four core strands—Grounded/Empirical, Structural, Strategic, and Adversarial—and a strictly quarantined Mythic Wild Card.
 
-Base context governs scope; reality governs truth. Attention is not authority. Recognition creates an obligation to evaluate, not an obligation to obey. The system records receipts and provenance rather than hidden reasoning traces.
+## LSD Fractal Reasoning
+
+LSD provides controlled divergence through six interpretive strands at Low, Medium, and High temperatures. It produces candidates, blind-spot checks, amalgamation, and a Kill List. It does not independently authorize conclusions.
+
+## KDP and authority
+
+KDP is the final decision gate after qualification. It records action, invalidation, what would change the answer, and watch items. Base context is sovereign; reality and evidence still constrain truth. Mythic illuminates but does not govern.

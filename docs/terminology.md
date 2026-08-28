@@ -2,14 +2,18 @@
 
 | Term | Meaning |
 | --- | --- |
-| Base context | The starting context that constrains scope; it does not make claims true. |
-| Candidate | A possible answer, action, or interpretation that has not yet been authorized. |
-| Qualification | Evaluation of a candidate against evidence, assumptions, limitations, and falsifiers. |
-| Authority Gate | The explicit transition from qualified material to its permitted status. |
-| Mythic | Symbolic, associative, or narrative material that may illuminate but does not govern. |
-| Mythic quarantine | The boundary that prevents Mythic material from independently establishing facts or authorizing action. |
-| Kill List | A record of candidates rejected or quarantined so they cannot silently return during Unify. |
-| Receipt | An auditable decision record showing rationale and provenance, not private reasoning traces. |
-| Complexity budget | The amount of protocol appropriate to the task's stakes and uncertainty. |
-| Escalation | A valid outcome when authorization, context, or responsibility is insufficient. |
-| Falsifier | A stated observation, evidence, or condition that would change the answer. |
+| Question lock | Explicit identification of the real question type before work begins. |
+| Sovereign decision sentence | The bounded decision statement that guides a decision-oriented run. |
+| Acceptance criteria | Up-front Given/When/Then definition of successful completion. |
+| PAUL loop | Plan → Apply → Unify; the mandatory closure skeleton. |
+| Beckman application layer | Listen → Search → Decide → Dream, used within Apply. |
+| Core strands | Grounded/Empirical, Structural, Strategic, and Adversarial. |
+| LSD strands | Literal, Structural, Emotional/Psychological, Strategic, Symbolic/Mythic, and Adversarial/Critique. |
+| Temperature | Low, Medium, or High degree of divergence used for a strand. |
+| Execute / Qualify | Perform bounded work, then independently check it against the locked question and acceptance criteria. |
+| KDP | Final decision gate: action, invalidation, answer-changing evidence, and watch items. |
+| Mythic quarantine | Labeling and containment of Symbolic Insight, Bias Warning, and Poetic Color so it cannot govern decisions. |
+| Kill List | Explicit record of discarded or quarantined output and its justification. |
+| Base context sovereignty | Preserve the supplied base context; do not let divergence silently rewrite it. |
+| Diagnostic failure routing | Classify defects as Intent issue, Spec issue, Evidence gap, or Structural blocker before patching. |
+| Fractal process evaluation | Account of the added value and risks/distortions of fractal expansion. |

@@ -1,22 +1,27 @@
 # Execution map
 
-## Control path
+## PLAN
 
-1. **Plan** — state the question, base context, scope, acceptance criteria, evidence boundary, and complexity budget.
-2. **Apply** — perform the bounded work. Generate candidates; use LSD when divergence is useful.
-3. **Qualify** — assess evidence, assumptions, limitations, source conflicts, and falsifiers.
-4. **Authority Gate** — classify what may be concluded or authorized.
-5. **Unify** — produce only the permitted output, decision record, and open issues.
+- Lock the real question type.
+- State a sovereign decision sentence when a decision is required.
+- Define Given/When/Then acceptance criteria.
+- Establish base context, boundaries, coherence constraints, and complexity budget.
+- Select PAUL, LSD, or Hybrid mode and the required strands and temperatures.
 
-## Application route
+## APPLY
 
-Use Listen → Search → Decide → Dream as an application layer:
+- Route through Listen → Search → Decide → Dream.
+- Use Low Pass for exploration and detection, Medium Synthesis for core integration, and High Pass for pressure testing.
+- Apply selective LSD fractal expansion where it adds value.
+- Quarantine and label Mythic/Symbolic output.
+- Execute and then independently Qualify against the locked question and acceptance criteria.
+- Route material defects as Intent issue, Spec issue, Evidence gap, or Structural blocker.
 
-- Listen: receive context without treating it as settled truth.
-- Search: seek evidence within the stated boundary.
-- Decide: prepare a candidate and test it through qualification and authority.
-- Dream: explore alternatives, symbolic associations, and questions under controlled divergence.
+## UNIFY
 
-## Closure
-
-A run may end in `DONE`, `DONE_WITH_CONCERNS`, `NEEDS_CONTEXT`, `BLOCKED`, or `QUARANTINED`. A closed loop can still have unresolved truth; procedural closure is not epistemic closure.
+- Compare planned versus actual.
+- Produce the explicit Kill List.
+- Reconcile against base context and acceptance criteria.
+- Use KDP / final decision gate to state action, invalidation, answer-changing evidence, and watch items.
+- Log deferred issues and persistent-state or handoff notes when relevant.
+- Deliver `DONE`, `DONE_WITH_CONCERNS`, `NEEDS_CONTEXT`, or `BLOCKED`.

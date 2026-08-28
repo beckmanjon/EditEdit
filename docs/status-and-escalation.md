@@ -1,17 +1,12 @@
 # Status and escalation
 
-## Final statuses
-
-| Status | Use |
+| Status | Meaning |
 | --- | --- |
-| `DONE` | The permitted output is complete within scope. |
-| `DONE_WITH_CONCERNS` | The output is complete, with material limitations or review points recorded. |
-| `NEEDS_CONTEXT` | Missing context prevents a bounded answer; this is valid procedural closure. |
-| `BLOCKED` | A dependency, authority, evidence source, or external condition prevents progress. |
-| `QUARANTINED` | Material is retained as a question or signal but excluded from factual or consequential authority. |
+| `DONE` | Completed cleanly and meets acceptance criteria without significant concerns. |
+| `DONE_WITH_CONCERNS` | Completed, with material doubts, risks, or edge cases recorded for review. |
+| `NEEDS_CONTEXT` | Cannot complete properly because information, evidence, or question clarity is missing. |
+| `BLOCKED` | A structural or external condition prevents completion. |
 
-## Escalate when
+Apply statuses to key outputs, strand contributions, or the overall synthesis before Unify. This prevents silent false completion and supplies inputs to diagnostic failure routing and the Kill List.
 
-Escalate when a high-impact or irreversible action lacks explicit authorization, when responsibility cannot be determined within scope, when credible evidence conflict cannot be resolved under the evidence boundary, or when the task exceeds the assigned decision authority.
-
-A final status must not conceal unresolved truth. State open issues, consequence-review points, and what would change the answer.
+Before patching a defect, classify it as an Intent issue, Spec issue, Evidence gap, or Structural blocker. A valid status is a bounded and honest result, not a binary failure.

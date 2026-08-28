@@ -1,26 +1,15 @@
 # Complexity budget
 
-PAUL vs LSD should use only as much protocol as the task needs.
+PAULvsLSD uses asymmetric optionality: apply lighter or heavier protocol according to stakes, ambiguity, and the value of additional perspective.
 
-## Expand when
+## Light use
 
-Increase documentation, evidence work, qualification, and review when a task has meaningful:
+For quick strategic questions, use PAUL lightly: lock the question, set brief criteria, use only needed strands, qualify the result, and close the loop.
 
-- stakes;
-- ambiguity;
-- novelty;
-- disagreement;
-- irreversibility;
-- evidence conflict.
+## Full use
 
-## Shrink when
+Use full LSD or Hybrid PAUL+LSD when a decision is high-stakes, complex, ambiguous, conviction-heavy, meaning-rich, or likely to contain hidden dynamics. LSD full means six strands at Low, Medium, and High temperatures.
 
-Use a lightweight loop for routine, reversible, low-consequence work with clear scope and readily checkable results.
+## Constraint
 
-## Minimum discipline
-
-Even a lightweight run should preserve the distinction between a candidate and a conclusion, name material limitations when relevant, and avoid treating confidence or attention as authority.
-
-## Escalation
-
-Escalation is a valid outcome. Do not use a complexity budget to bypass required authorization or to force closure where context is missing.
+Do not apply full fractal depth by default. The protocol is a decision-and-meaning engine, not a calculator. High-temperature output must be flagged or killed when it drifts from the locked question or fails to add verifiable value.
