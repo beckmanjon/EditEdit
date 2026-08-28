@@ -20,10 +20,10 @@ Source A says the check is weekly. Source B says it is biweekly. Both appear cre
 
 The sources conflict. A candidate that treats either summary as settled policy is rejected. A bounded candidate is: “Use the more recent summary only as an interim reference while confirming the current authorized procedure.”
 
-## Authority Gate
+## KDP / final decision gate
 
-- **Status:** Qualified recommendation
-- **Not authorized:** Declaring either cadence to be policy.
+- **Qualification:** The interim option is bounded but not a settled policy.
+- **KDP constraint:** Do not declare either cadence to be policy.
 - **Required next step:** Ask the procedure owner to confirm the current version.
 
 ## Unify

@@ -16,10 +16,10 @@ May a team suspend a customer-facing workflow after detecting a plausible but un
 
 The team has several reports suggesting a pattern, but the evidence has not yet established cause, frequency, or affected scope. A candidate to suspend the workflow is coherent as a precaution. It remains a candidate because evidence and decision authority are incomplete.
 
-## Authority Gate
+## KDP / final decision gate
 
-- **Status:** Qualified recommendation
-- **Authority available:** The team may prepare evidence and notify the designated incident owner.
+- **Qualification:** The precaution is coherent but does not establish cause.
+- **KDP authority available:** The team may prepare evidence and notify the designated incident owner.
 - **Authority missing:** Authorization to suspend the customer-facing workflow.
 - **Correct action:** Escalate with the bounded recommendation and evidence receipt.
 
@@ -31,4 +31,4 @@ Prepare a concise incident packet and request the designated owner’s decision 
 - **Consequence-review point:** Reassess immediately after the owner’s decision or new evidence.
 - **Final status:** `BLOCKED`
 
-A coherent candidate did not become an authorized decision merely because it sounded prudent.
+A coherent candidate did not become an action merely because it sounded prudent.

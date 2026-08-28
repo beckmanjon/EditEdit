@@ -19,9 +19,9 @@ The request provides only the source name. It does not provide the report’s ob
 
 No responsible fit assessment can be made. Inventing assumptions would make the response look complete while concealing the missing boundary.
 
-## Authority Gate
+## KDP / final decision gate
 
-- **Status:** Rejected / quarantined for the unsupported “add it” candidate.
+- **KDP result:** The unsupported “add it” candidate is placed on the Kill List.
 - **Permitted output:** A request for the listed context.
 
 ## Unify

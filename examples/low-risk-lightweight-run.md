@@ -18,11 +18,11 @@ Candidates: “Decision Record,” “Draft Discussion Notes,” and “Final Me
 
 “Final Meeting Notes” is rejected because the document is not final. “Draft Discussion Notes” accurately communicates scope and status.
 
-## Authority Gate
+## KDP / final decision gate
 
 - **Surviving candidate:** Draft Discussion Notes
-- **Status:** Authorized decision
-- **Authority:** The document owner may choose a descriptive internal draft title.
+- **Qualification:** The title is accurate and reversible.
+- **KDP:** The document owner may choose a descriptive internal draft title.
 
 ## Unify
 
